@@ -13,7 +13,7 @@ import { useAuthStore } from "./store/useAuthStore";
 import { useThemeStore } from "./store/useThemeStore";
 import { useEffect } from "react";
 
-import { Loader } from "lucide-react";
+import { Loader } from "lucide-react"; 
 // import { Toaster } from "react-hot-toast";
 
 // const App = () => {
